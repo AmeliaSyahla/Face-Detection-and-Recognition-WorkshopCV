@@ -2,10 +2,10 @@
 ## Description
 This project is a workshop assignment for the Computer Vision course. It involves a dataset containing 140 images of 7 individuals, with 20 images per person. The dataset is used to train a face recognition model using the Eigenface method combined with a Support Vector Machine (SVM) classifier. 
 
-1. **README.md** — program guide.
-2. **Tugas Workshop_512057_Amelia Syahla Aurellia Sambudi.ipynb** — a Jupyter notebook containing code to build and run a face recognition program.
-3. **eigenface_pipeline.pkl** — a model file resulting from training using the PCA (Principal Component Analysis) method.
-4. **images/** — Folder 'images' that contains the face image dataset to be used for training.
+1. **`README.md`** — program guide.
+2. **`Tugas Workshop_512057_Amelia Syahla Aurellia Sambudi.ipynb`** — a Jupyter notebook containing code to build and run a face recognition program.
+3. **`eigenface_pipeline.pkl`** — a model file resulting from training using the PCA (Principal Component Analysis) method.
+4. **`images/`** — Folder 'images' that contains the face image dataset to be used for training.
 
 ## Step
 Here are the step-by-step instructions to run my code using the existing model, which was trained on 140 images.
