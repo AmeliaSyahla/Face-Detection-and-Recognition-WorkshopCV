@@ -32,9 +32,9 @@ Here are the step-by-step instructions to run my code using the existing model, 
 
 Notes:
 -> If you want to try retrain this model with your new dataset image, you can follow this step: 
-1. Add your images dataset to the 'images' folder
-2. Follow the detailed step in 'Tugas Workshop_512027_Amelia Syahla Aurellia Sambudi'
-3. Save the newly trained model ('eigenface_pipeline.pkl')
-4. Execute 'main.py'
+1. Add your images dataset to the `images` folder
+2. Follow the detailed step in `Tugas Workshop_512027_Amelia Syahla Aurellia Sambudi`
+3. Save the newly trained model (`eigenface_pipeline.pkl`)
+4. Execute `main.py` on terminal
    
     
